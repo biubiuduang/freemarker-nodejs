@@ -8,7 +8,7 @@
 - .ftl 文件高亮和代码提示： 
     - webstorm ： setting -》Editor -》file types -》找到HTML  + *.ftl 的支持 
     - vscode： 谁用vscode 请完善
-- xml2js --》 [文档](https://www.npmjs.com/package/xml2js)    规则有些不满足现在需求 暂时不用
+- xml2js --》规则有些不满足现在需求 暂时不用  [文档](https://www.npmjs.com/package/xml2js)    
 
 2、文件目录介绍
 - bin
@@ -17,7 +17,8 @@
 - engines
     - fm.js (freemarker.js 配置文件) [config](http://freemarker.js.org/)
 - public  公共文件
-    - stylesheets （公共样式包）
+    - less （公共样式包 放less文件） -- 编辑工具需要配置less 
+    - css (请勿编辑这个页面的css文件，此文件夹下为 less自动生成的 css！！！)
     - img （图片资源）
     - js （公共js）
     - utils （第三方 js  css 等资源）

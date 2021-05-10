@@ -1,5 +1,5 @@
 <#include "/common/header.ftl">
-<link href="/stylesheets/index.css" rel="stylesheet"/>
+<link href="/css/index.css" rel="stylesheet"/>
 	<#-- 模板 + 数据模型 = 输出 -->
 	<h1>Welcome ${name}!</h1>
 	<p>
@@ -11,4 +11,5 @@
 		</#if>
 	</p>
 	<a href="${latestProduct.url}">${latestProduct.name}</a>
+<script type="text/javascript" src="/js/index.js"></script>
 <#include "/common/footer.ftl">
