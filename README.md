@@ -13,7 +13,7 @@
 2、文件目录介绍
 - bin
     - www 项目启动配置文件
-- data 公共数据文件
+- data 公共数据文件 ，公共数据在 fm.js 加入到 项目（如 header menu）
 - engines
     - fm.js (freemarker.js 配置文件) [config](http://freemarker.js.org/)
 - public  公共文件
