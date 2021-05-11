@@ -1,7 +1,6 @@
 var express = require('express');
 var router = express.Router();
-// var menu = require('../data/menu');
-// console.log(menu); // whb-lg
+
 var data = {
   name: '卖鱼灿',
   age : 26,
