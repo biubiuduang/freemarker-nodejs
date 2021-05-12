@@ -32,8 +32,8 @@
 - ftl 代码高亮配置
     webStorm : setting -》Editor -》file types -》找到HTML  + *.ftl 的支持 
     vscode : 点击菜单 文件->首选项->设置 输入如下代码
-    ```markdown
-"files.associations": {
-            "*.tpl": "html"
-        }
+```
+    "files.associations": {
+        "*.tpl": "html"
+    }
 ```
