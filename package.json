@@ -1,7 +1,7 @@
 {
   "name": "freemarker-node-cli",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "jacky.king",
   "main": "index.js",
   "bin" : {
     "freemarker-node-cli": "./bin/freemarker-node-cli.js"
