@@ -15,8 +15,7 @@
 - engines
     - fm.js (freemarker.js 配置文件) [config](http://freemarker.js.org/)
 - public  公共文件
-    - less （公共样式包 放less文件） -- 编辑工具需要配置less  见3说明
-    - css (请勿编辑这个页面的css文件，此文件夹下为 less自动生成的 css！！！)
+    - less （公共样式包)
     - img （图片资源）
     - js （公共js）
     - utils （第三方 js  css 等资源）
