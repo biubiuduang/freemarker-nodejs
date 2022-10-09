@@ -27,11 +27,11 @@
 
 #### 3、说明：
 - less 配置  
-    [webStorm](https://jingyan.baidu.com/article/295430f1cd01890c7e0050d2.html)
-    [vscode](https://www.cnblogs.com/wjsy/p/9596408.html) 仅供参考
+    -- [webStorm](https://jingyan.baidu.com/article/295430f1cd01890c7e0050d2.html)
+    -- [vscode](https://www.cnblogs.com/wjsy/p/9596408.html) 仅供参考
 - ftl 代码高亮配置
-    webStorm : setting -》Editor -》file types -》找到HTML  + *.ftl 的支持 
-    vscode : 点击菜单 文件->首选项->设置 输入如下代码
+    -- webStorm : setting -》Editor -》file types -》找到HTML  + *.ftl 的支持 
+    -- vscode : 点击菜单 文件->首选项->设置 输入如下代码
 ```
     "files.associations": {
         "*.tpl": "html"
